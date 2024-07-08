@@ -1,0 +1,52 @@
+[ 2024-04-05 16:42:50,692 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-05 16:42:50,703 ] 96 werkzeug - INFO -  * Debugger PIN: 833-141-429
+[ 2024-04-05 16:43:04,791 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:43:04] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:44:01,827 ] 64 root - INFO - Dataframe Gathered
+[ 2024-04-05 16:44:02,060 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:44:02] "POST /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:45:36,114 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:45:36] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:46:09,452 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:46:09] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:46:44,211 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:46:44] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:47:08,785 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:47:08] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:47:27,588 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:47:27] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:47:41,604 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:47:41] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:48:28,399 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:48:28] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:48:42,813 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:48:42] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:48:56,767 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:48:56] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:49:22,108 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:49:22] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:49:40,004 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:49:40] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:49:45,630 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:49:45] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:49:58,190 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:49:58] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:50:06,502 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:50:06] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:50:28,732 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:50:28] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:50:44,231 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:50:44] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:51:09,809 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:51:09] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:51:20,846 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:51:20] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:51:34,152 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:51:34] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:51:45,735 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:51:45] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:51:54,461 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:51:54] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:09,084 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:09] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:18,280 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:18] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:18,787 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:18] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:18,913 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:18] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:27,612 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:27] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:34,291 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:34] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:35,429 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:35] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:35,670 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:35] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:35,785 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:35] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:43,012 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:43] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:50,377 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:50] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:52:52,250 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:52:52] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:53:00,174 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:53:00] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:53:16,665 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:53:16] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:53:43,755 ] 64 root - INFO - Dataframe Gathered
+[ 2024-04-05 16:53:43,765 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:53:43] "POST /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:53:55,417 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:53:55] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:54:13,907 ] 64 root - INFO - Dataframe Gathered
+[ 2024-04-05 16:54:13,917 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:54:13] "POST /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:54:17,502 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:54:17] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:54:37,458 ] 64 root - INFO - Dataframe Gathered
+[ 2024-04-05 16:54:37,462 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:54:37] "POST /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:54:39,752 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:54:39] "GET /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:54:42,919 ] 64 root - INFO - Dataframe Gathered
+[ 2024-04-05 16:54:42,925 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 16:54:42] "POST /predict HTTP/1.1" 200 -
+[ 2024-04-05 16:55:08,083 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\JATIN KHANDELWAL\\OneDrive\\Desktop\\House_price\\app.py', reloading

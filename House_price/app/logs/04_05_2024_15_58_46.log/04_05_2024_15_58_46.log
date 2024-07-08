@@ -1,0 +1,4 @@
+[ 2024-04-05 15:58:47,374 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-05 15:58:47,378 ] 96 werkzeug - INFO -  * Debugger PIN: 833-141-429
+[ 2024-04-05 15:59:03,438 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 15:59:03] "GET / HTTP/1.1" 200 -
+[ 2024-04-05 15:59:24,609 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 15:59:24] "GET /predict HTTP/1.1" 200 -
